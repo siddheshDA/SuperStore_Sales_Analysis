@@ -104,8 +104,8 @@ df['profit_margin'] = df['profit'] / df['sales']
 
 | Name | Role | Description |
 |------|------|--------------|
-| 🧠 **Hemanshu** |  Data cleaning, Python integration, Power BI Developer | Created the full Power BI Dashboard |
-| 👨‍💻 **Siddhesh Ashok Gaikwad** | Data Analyst & Developer | and repository setup |
+| 🧠 **Himanshu**( https://github.com/Himanshu76-DA ) |  Data cleaning, Python integration, Power BI Developer | Created the full Power BI Dashboard |
+| 👨‍💻 **Siddhesh Ashok Gaikwad**( https://github.com/siddheshDA ) | Data Analyst & Developer | and repository setup |
 
 ---
 
